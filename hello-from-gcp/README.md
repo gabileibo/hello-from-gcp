@@ -35,7 +35,8 @@ No modules.
 
 ## Outputs
 
-| Name                                                                          | Description                                                     |
+| Name  
+ | Description |
 | ----------------------------------------------------------------------------- | --------------------------------------------------------------- |
 | <a name="output_bootstrap_text"></a> [bootstrap_text](#output_bootstrap_text) | bootstrap text to show in Github actions to ensure proper setup |
 
